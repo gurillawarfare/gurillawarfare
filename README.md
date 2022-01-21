@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gurillawarfare (Himanshu Raj Sharma) 
-- 👀 I’m interested in game develpoing, coding, computer hardwares
+- 👀 I’m interested in game developing, coding, computer hardwares
 - 🌱 I’m currently learning electronics engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
